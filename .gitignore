@@ -361,3 +361,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/2023/Day04/Challenge2/input.txt
+/2023/Day04/Challenge1/input.txt
+/2023/Day03/Challenge2/input.txt
+/2023/Day03/Challenge1/input.txt
+/2023/Day02/Challenge2/input.txt
+/2023/Day02/Challenge1/input.txt
+/2023/Day01/Challenge2/input.txt
+/2023/Day01/Challenge1/input.txt
