@@ -10,7 +10,6 @@
   <ItemGroup>
     <None Remove="input.txt" />
     <None Remove="symbols.txt" />
-    <None Remove="testinput.txt" />
   </ItemGroup>
 
   <ItemGroup>
@@ -18,9 +17,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
     <EmbeddedResource Include="symbols.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="testinput.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>
