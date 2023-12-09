@@ -118,5 +118,5 @@ while (!(listValidZValues.ToList().Distinct().Count() == 1))
 
 }
 
-//122007383989
+
 Console.Write(listValidZValues[0].ToString());
